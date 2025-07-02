@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>assignment1a</title>
-  </head>
-  <body>
- <h1>assignment1a</h1>
-    <p>Hello world!</p>
-  </body>
+<head>
+  <style>
+    p {
+      color: red;
+      font-size: 20px;
+      font-family: Arial;
+      background-color: Azure;
+      text-align: center;
+    }
+  </style>
+  <meta charset="UTF-8">
+  <title>assignment1a</title>
+</head>
+<body>
+  <h1>assignmentcss</h1>
+  <p>Hello world!</p>
+</body>
 </html>
